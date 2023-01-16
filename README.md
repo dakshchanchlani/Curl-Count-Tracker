@@ -5,4 +5,4 @@ Libraries used :
   1. Mediapipe
   2. opencv
 
-A live curl count tracker whcih will help you to count bicep curls while exercising.
+A live curl count tracker which will help you to count bicep curls while performing exercise.
